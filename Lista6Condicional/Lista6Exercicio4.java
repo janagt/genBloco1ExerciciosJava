@@ -28,7 +28,7 @@ public class Lista6Exercicio4 {
 		}
 		else {
 			valorPotencia = Math.pow(numero, 2);
-			System.out.println(numero + " é ímpar, sua raiz quadrada é de: " + valorPotencia);
+			System.out.println(numero + " é ímpar, seu valor elevado ao quadrado é de: " + valorPotencia);
 		}
 	}
 }
