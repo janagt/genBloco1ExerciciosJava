@@ -1,3 +1,8 @@
+//SEMANA 5 - BLOCO 1 - 08/03/22
+//INTRODUÇÃO DE PROGRAMAÇÃO ORIENTADA À OBJETO
+//HERANÇA
+
+
 package POOHeranca;
 
 public class Lista9Exercicio1AnimalObjeto {
@@ -15,7 +20,7 @@ public class Lista9Exercicio1AnimalObjeto {
 		
 		cavalo1.setNome("Rei");
 		cavalo1.setIdade(14);
-		cavalo1.setSom("Irrinho! (Relincha)");
+		cavalo1.setSom("Irrinhó! (Relincha)");
 		cavalo1.setAcao("Corre");
 		
 		
